@@ -30,7 +30,7 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，浙江宁波理工学院，计算机科学与技术，2016.9~2020.7
+- 本科，浙江宁波理工学院，计算机科学与技术，2016.9~2020.7
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 活动经历
 
