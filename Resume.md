@@ -3,7 +3,7 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             15258390348
+             (86)152-5839-0348
          </span>
          ·
          <span>
@@ -32,11 +32,15 @@
 
 - 学士，浙江宁波理工学院，计算机科学与技术，2016.9~2020.7
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 活动经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **2017.6~2018.5**
 
-   负责 XXX
+   担任数据学院学生会公寓权益部副部长
+   
+- **2017.6~2018.5** 
+   
+   担任计算机协会系统运维部副部长
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
